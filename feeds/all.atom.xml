@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>raviih.github.io</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-03-03T00:00:00-03:00</updated><entry><title>Hello Pelican</title><link href="/hello-pelican.html" rel="alternate"></link><published>2018-03-03T00:00:00-03:00</published><updated>2018-03-03T00:00:00-03:00</updated><author><name>Luciano</name></author><id>tag:None,2018-03-03:/hello-pelican.html</id><summary type="html">&lt;p&gt;Hello Pelican!!&lt;/p&gt;
+&lt;p&gt;Assim começamos nosso primeiro post.&lt;/p&gt;
+&lt;p&gt;Até mais...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello Pelican!!&lt;/p&gt;
+&lt;p&gt;Assim começamos nosso primeiro post.&lt;/p&gt;
+&lt;p&gt;Até mais...&lt;/p&gt;</content><category term="pelican"></category></entry></feed>
